@@ -1,0 +1,7 @@
+
+2018-06-15 11:57:07:B³¹d nr: 53
+Nie znaleziono pliku: A2018-03-06.txt
+
+VBAProject
+File.FileInfo(fullFileName) linia 3
+Test.Main() linia 7
